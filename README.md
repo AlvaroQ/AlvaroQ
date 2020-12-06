@@ -1,8 +1,8 @@
 # 👋 Hi there, my name is Alvaro Quintana
 ### I'm a Android developer, Kotlin especialist and Software architect ingenieer.
 
-![https://github.com/AlvaroQ](https://github.com/AlvaroQ/AlvaroQ/blob/main/landing.jpg)
-
+![https://github.com/AlvaroQ](https://github.com/AlvaroQ/AlvaroQ/blob/main/landing.png)
+I'm a professional software developer for more than fifteen years.
 
 ## Skills:
 ![Kotlin](https://img.shields.io/badge/Kotlin-101010?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0000cc)
@@ -30,4 +30,4 @@ and more!
 [![Twitter](https://img.shields.io/badge/Twitter-@QuintanaAlvaro-101010?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/QuintanaAlvaro)
 
 ## Contact me at:
-![Email](https://img.shields.io/badge/Gmail-alvaroqp@gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=white&labelColor=e60000)
+[![Email](https://img.shields.io/badge/Gmail-alvaroqp@gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=white&labelColor=e60000)](mailto:alvaroqp@gmail.com)
