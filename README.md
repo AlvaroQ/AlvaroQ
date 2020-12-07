@@ -12,13 +12,12 @@ I'm a professional software developer for more than fifteen years.
 ![Xamarin](https://img.shields.io/badge/Xamarin-101010?style=for-the-badge&logo=Xamarin&logoColor=white&labelColor=66ccff)
 </br>
 ![HTML5](https://img.shields.io/badge/HTML5-ff9900?style=for-the-badge&logo=html5&logoColor=white&labelColor=1010)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-0066ff?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![CSS3](https://img.shields.io/badge/CSS3-0066ff?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 </br>
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google_cloud&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-996600?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+![Firebase](https://img.shields.io/badge/Firebase-101010?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28)
+![MySQL](https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=white&labelColor=996600)
+![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
 </br>
 and more!
 
