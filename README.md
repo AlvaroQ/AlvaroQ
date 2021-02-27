@@ -27,4 +27,4 @@ and more!
 [![Twitter](https://img.shields.io/badge/Twitter-@QuintanaAlvaro-101010?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/QuintanaAlvaro)
 
 ## Contact me at:
-[![Email](https://img.shields.io/badge/Gmail-alvaroqp@gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=white&labelColor=e60000)](mailto:alvaroquintanapalacios@gmail.com) 
+[![Email](https://img.shields.io/badge/Gmail-alvaroquintanapalacios@gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=white&labelColor=e60000)](mailto:alvaroquintanapalacios@gmail.com) 
