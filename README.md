@@ -1,5 +1,5 @@
 # 👋 Hi there, my name is Alvaro Quintana
-### I'm a Android developer, Kotlin especialist and Software architect ingenieer.
+### I'm a Android developer, Kotlin especialist and Software architect engineer.
 
 ![https://github.com/AlvaroQ](https://github.com/AlvaroQ/AlvaroQ/blob/main/landing.png)
 I'm a professional software developer for more than fifteen years.
