@@ -22,7 +22,7 @@ I'm a professional software developer for more than fifteen years.
 and more!
 
 ## Find me at:
-[![Web](https://img.shields.io/badge/Mi_Sitio_Web-https://alvaroq.github.io/-101010?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=a82be3)](https://alvaroq.github.io/)
+[![Web](https://img.shields.io/badge/Mi_Sitio_Web-alvaroq.github.io/-101010?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=a82be3)](https://alvaroq.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvaro_Quintana-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/alvaro-quintana-palacios-8b119039/)
 [![Twitter](https://img.shields.io/badge/Twitter-@QuintanaAlvaro-101010?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/QuintanaAlvaro)
 
