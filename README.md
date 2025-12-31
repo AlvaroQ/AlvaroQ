@@ -2,6 +2,8 @@
 
   ### App Development & Kotlin & AI Specialist
 
+![https://github.com/AlvaroQ](https://github.com/AlvaroQ/AlvaroQ/blob/main/landing.png)
+
   ## 🚀 Current Focus
 
   - **KMP/Compose Multiplatform** - Cross-platform SDKs (Android, iOS, Desktop, Web)
@@ -22,7 +24,7 @@
 
   | Project | Description | Stack |
   |---------|-------------|-------|
-  | [RAG Chatbot](https://github.com/AlvaroQ/portfolio-chatbot) | AI assistant with vector embeddings | Cloudflare Workers, Llama 3.1 |
+  | [RAG Chatbot](https://alvaroq.github.io/#chat) | AI assistant with vector embeddings | Cloudflare Workers, Llama 3.1 |
   | [Chart Analyzer](https://github.com/AlvaroQ/chart-analyzer-and-stock-news) | Multimodal financial analysis | Gemini 2.0, Perplexity AI |
   | [Translation & Voice](https://github.com/AlvaroQ/TranslationAndVoiceLocally) | Offline TTS with neural voices | PyTorch, Kokoro-82M |
   | [Lotto Scan](https://github.com/AlvaroQ/lotto-scan) | KMP lottery scanner with on-device OCR | Compose MP, PaddleOCR |
