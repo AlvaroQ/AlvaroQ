@@ -1,30 +1,37 @@
-# 👋 Hi there, my name is Alvaro Quintana
-### I'm a Android developer, Kotlin especialist and Software architect engineer.
+ # 👋 Hi, I'm Álvaro Quintana
 
-![https://github.com/AlvaroQ](https://github.com/AlvaroQ/AlvaroQ/blob/main/landing.png)
-I'm a professional software developer for more than fifteen years.
+  ### App Development & Kotlin & AI Specialist
 
-## Skills:
-![Kotlin](https://img.shields.io/badge/Kotlin-101010?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0000cc)
-![Android](https://img.shields.io/badge/Android-101010?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)
-![Android_Studio](https://img.shields.io/badge/Android_Studio-101010?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=009933)
-![Flutter](https://img.shields.io/badge/Flutter-101010?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=0095D5)
-![Xamarin](https://img.shields.io/badge/Xamarin-101010?style=for-the-badge&logo=Xamarin&logoColor=white&labelColor=66ccff)
-</br>
-![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=white&labelColor=ff9900)
-![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=white&labelColor=0066ff)
-</br>
-![Firebase](https://img.shields.io/badge/Firebase-101010?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28)
-![MySQL](https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=white&labelColor=996600)
-![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
-</br>
-and more!
+  ## 🚀 Current Focus
 
-## Find me at:
-[![Web](https://img.shields.io/badge/Mi_Sitio_Web-alvaroq.github.io/-101010?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=a82be3)](https://alvaroq.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvaro_Quintana-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/alvaro-quintana-palacios-8b119039/)
-[![Twitter](https://img.shields.io/badge/Twitter-@QuintanaAlvaro-101010?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/QuintanaAlvaro)
+  - **KMP/Compose Multiplatform** - Cross-platform SDKs (Android, iOS, Desktop, Web)
+  - **AI Orchestration** - RAG systems, autonomous agents, MCP protocol
+  - **Full-stack AI apps** - Next.js + LLMs (Claude, GitHub Copilot, Gemini, Perplexity)
 
+  ## 🔧 Tech Stack
+
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+  ## 🤖 AI Projects
+
+  | Project | Description | Stack |
+  |---------|-------------|-------|
+  | [RAG Chatbot](https://github.com/AlvaroQ/portfolio-chatbot) | AI assistant with vector embeddings | Cloudflare Workers, Llama 3.1 |
+  | [Chart Analyzer](https://github.com/AlvaroQ/chart-analyzer-and-stock-news) | Multimodal financial analysis | Gemini 2.0, Perplexity AI |
+  | [Translation & Voice](https://github.com/AlvaroQ/TranslationAndVoiceLocally) | Offline TTS with neural voices | PyTorch, Kokoro-82M |
+  | [Lotto Scan](https://github.com/AlvaroQ/lotto-scan) | KMP lottery scanner with on-device OCR | Compose MP, PaddleOCR |
+
+  ## 📫 Connect
+
+  [![Web](https://img.shields.io/badge/Portfolio-alvaroq.github.io-a82be3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alvaroq.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-quintana-palacios/)
+  
 ## Contact me at:
 [![Email](https://img.shields.io/badge/Gmail-alvaroquintanapalacios@gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=white&labelColor=e60000)](mailto:alvaroquintanapalacios@gmail.com) 
+
