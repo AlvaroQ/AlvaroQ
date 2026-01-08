@@ -21,13 +21,13 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-  ## 🤖 AI Projects
+  ## 🤖 Latest AI Projects
 
   | Project | Description | Stack |
   |---------|-------------|-------|
-  | [RAG Chatbot](https://alvaroq.github.io/#chat) | AI assistant with vector embeddings | Cloudflare Workers & Llama 3.1 |
-  | [Chart Technical Analyzer](https://github.com/AlvaroQ/chart-analyzer-and-stock-news) | Multimodal financial analysis | Gemini 2.0 & Perplexity AI |
-  | [Translation & Voice](https://github.com/AlvaroQ/TranslationAndVoiceLocally) | Offline TTS with neural voices | NLLB-200 (Translation) & Kokoro-82M (Text-to-Speech) |
+  | [RAG Chatbot](https://alvaroq.github.io/#chat) | AI assistant with vector embeddings | Cloudflare Workers & Llama |
+  | [Chart Technical Analyzer](https://github.com/AlvaroQ/chart-analyzer-and-stock-news) | Multimodal financial analysis | Gemini & Perplexity |
+  | [Translation & Voice](https://github.com/AlvaroQ/TranslationAndVoiceLocally) | Offline TTS with neural voices | NLLB-200 & Kokoro |
   | [Lotto Scan](https://github.com/AlvaroQ/lotto-scan) | KMP lottery scanner with on-device OCR | Compose MP & PaddleOCR |
 
   ## 📫 Connect
