@@ -26,8 +26,8 @@
   | Project | Description | Stack |
   |---------|-------------|-------|
   | [RAG Chatbot](https://alvaroq.github.io/#chat) | AI assistant with vector embeddings | Cloudflare Workers & Llama |
-  | [Web Scraper]([https://alvaroq.github.io/#chat](https://github.com/AlvaroQ/web-scraper)) | Web scraper with anti-detect fallback & AI extraction | FastAPI, Playwright, Camoufox & Perplexity |
-  | [Youtube Downloader]([https://alvaroq.github.io/#chat](https://github.com/AlvaroQ/youtube-downloader)) | Video/audio downloader with AI summaries | FastAPI & Perplexity |
+  | [Web Scraper](https://github.com/AlvaroQ/web-scraper) | Web scraper with anti-detect fallback & AI extraction | FastAPI, Playwright, Camoufox & Perplexity |
+  | [Youtube Downloader](https://github.com/AlvaroQ/youtube-downloader) | Video/audio downloader with AI summaries | FastAPI & Perplexity |
   | [Chart Technical Analyzer](https://github.com/AlvaroQ/chart-analyzer-and-stock-news) | Multimodal financial analysis | Gemini & Perplexity |
   | [Translation & Voice](https://github.com/AlvaroQ/TranslationAndVoiceLocally) | Offline TTS with neural voices | NLLB-200 & Kokoro |
   | [Lotto Scan](https://github.com/AlvaroQ/lotto-scan) | KMP lottery scanner with on-device OCR | Compose MP & PaddleOCR |
