@@ -12,10 +12,10 @@ Senior engineer focused on Kotlin Multiplatform, Compose Multiplatform and edge 
 
 ## 🚀 Current Focus
 
-- **KMP / Compose Multiplatform** — Cross-platform SDKs (Android, iOS, Desktop, Web)
+- **KMP / Compose Multiplatform / KOTLIN** — Cross-platform SDKs (Android, iOS, Desktop, Web)
 - **On-device AI** — TFLite, ONNX, MobileNet, PaddleOCR — privacy-first, zero per-request cost
-- **AI Orchestration** — RAG systems, autonomous agents, MCP protocol
-- **Full-stack AI apps** — Next.js + LLMs (Gemini, Perplexity, Llama, Claude)
+- **AI Orchestration** — Autonomous agents, MCP protocol, SKILLS.
+- **Full-stack AI apps** — ASTRO / Next.js + LLMs (Gemini, Perplexity, Copilot, Claude, OpenRouter)
 
 ## 🔧 Tech Stack
 
