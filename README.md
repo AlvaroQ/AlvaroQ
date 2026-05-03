@@ -43,11 +43,6 @@ Senior engineer focused on Kotlin Multiplatform, Compose Multiplatform and edge 
 | [Translation & Voice](https://github.com/AlvaroQ/TranslationAndVoiceLocally) | Offline TTS with neural voices | NLLB-200 & Kokoro |
 | [Lotto Scan](https://github.com/AlvaroQ/lotto-scan) | KMP lottery scanner with on-device OCR | Compose MP & PaddleOCR |
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AlvaroQ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroQ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Gmail-alvaroquintanapalacios@gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=white&labelColor=e60000)](mailto:alvaroquintanapalacios@gmail.com)
